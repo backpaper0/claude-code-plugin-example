@@ -1,0 +1,13 @@
+{
+	"name": "demo-marketplace",
+	"owner": {
+		"name": "urgm"
+	},
+	"plugins": [
+		{
+			"name": "hello-plugin",
+			"source": "./hello-plugin",
+			"description": "Hello, world!"
+		}
+	]
+}
